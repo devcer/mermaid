@@ -65,7 +65,7 @@
     "d3": "^7.0.0",
     "dagre": "^0.8.5",
     "dagre-d3": "^0.6.4",
-    "dompurify": "2.4.0",
+    "dompurify": "2.5.4",
     "fast-clone": "^1.5.13",
     "graphlib": "^2.1.8",
     "khroma": "^2.0.0",
